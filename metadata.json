@@ -1,0 +1,6 @@
+{
+  "name": "Bruxos HDRI Viewer",
+  "description": "Visualizador 360 de HDRI e controle de exposição para artistas de VFX da Bruxos do VFX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
